@@ -1,1 +1,1 @@
-# githubdemo
+# githubeasy
